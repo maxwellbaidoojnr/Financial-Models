@@ -27,3 +27,7 @@ ci_amount = compound_interest(principal, rate, time)
 
 # Print the result
 print(f"Compound interest is ${ci_amount:.2f}")
+
+import pandas as pd
+
+data = pd.read_csv("Dataset.csv")
