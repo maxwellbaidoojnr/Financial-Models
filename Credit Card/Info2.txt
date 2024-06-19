@@ -1,0 +1,11 @@
+The box plot shows the distribution of ages for customers who did and did not default on their payments. 
+The median age for non-defaulters is slightly higher than that for defaulters, suggesting that older customers are less likely to default.
+However, there is significant overlap in the distributions, indicating that age alone is not a strong predictor of default.
+
+The box plot shows the distribution of credit limits for customers who did and did not default on their payments. 
+The median credit limit for non-defaulters is higher than that for defaulters, suggesting that customers with higher credit limits are less likely to default. 
+However, there is significant overlap in the distributions, indicating that credit limit alone is not a strong predictor of default.
+
+
+The bar chart shows the distribution of payment statuses in the previous month. The most frequent status is 0, indicating that the majority of customers paid their bills on time. 
+There are also a significant number of customers with payment statuses of -1, -2, and 2, indicating delayed payments or a history of default.
